@@ -29,7 +29,11 @@
 
 ### Social simulation
 
-## Interactive use of LLMs
+### Interactive use of LLMs
+
+#### AI as an interviewer
+
+Austin, A., Hohe, E., Kennedy, R., Litman, L., Minozzi, W., & Moses, L. (2026). An Experimental Comparison of AI-Enabled Semi-Structured Interviews and Fixed Surveys: Respondent Satisfaction, Response Patterns, Quality, and Representation. Public Opinion Quarterly, nfag063. https://doi.org/10.1093/poq/nfag063
 
 ### Synthetic data with LLMs
 
